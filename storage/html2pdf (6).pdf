@@ -1,0 +1,485 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612.00 792.00]
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 4310>>
+stream
+0.20 w
+0 G
+q
+q BT 0 g 60.00 736.60 Td
+253.98 -12.00 Td
+/F2 10.80 Tf (Invoice) Tj
+ET Q
+q BT 0 g 60.00 708.40 Td
+0 -10.13 Td
+/F1 8.10 Tf (Jonathan Neal) Tj
+ET Q
+q BT 0 g 60.00 695.58 Td
+0 -10.13 Td
+/F1 8.10 Tf (101 E. Chapman Ave) Tj
+/F1 8.10 Tf (Orange, CA 92866) Tj
+ET Q
+q BT 0 g 60.00 683.42 Td
+0 -10.13 Td
+/F1 8.10 Tf (\(800\) 555-1234) Tj
+ET Q
+q BT 0 g 60.00 671.27 Td
+248.31 -12.00 Td
+/F2 10.80 Tf (Recipient) Tj
+ET Q
+q BT 0 g 60.00 650.65 Td
+0 -20.25 Td
+/F2 13.50 Tf (Some Company) Tj
+/F2 13.50 Tf (c/o Some Guy) Tj
+ET Q
+0.78 0.78 0.78 rg
+60.00 608.40 179.46 -16.80 re
+B
+BT
+/F2 12 Tf
+13.799999999999999 TL
+0 g
+63.00 594.60 Td
+(Invoice #) Tj
+ET
+0.78 0.78 0.78 rg
+239.46 608.40 268.04 -16.80 re
+B
+BT
+/F2 12 Tf
+13.799999999999999 TL
+0 g
+242.46 594.60 Td
+(101138) Tj
+ET
+60.00 591.60 179.46 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+63.00 577.80 Td
+(Date) Tj
+ET
+239.46 591.60 268.04 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+242.46 577.80 Td
+(January 1, 2012) Tj
+ET
+60.00 574.80 179.46 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+63.00 561.00 Td
+(Amount Due) Tj
+ET
+239.46 574.80 268.04 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+242.46 561.00 Td
+($850.00) Tj
+ET
+0.78 0.78 0.78 rg
+60.00 528.00 89.73 -16.80 re
+B
+BT
+/F2 12 Tf
+13.799999999999999 TL
+0 g
+63.00 514.20 Td
+(Item) Tj
+ET
+0.78 0.78 0.78 rg
+149.73 528.00 89.73 -16.80 re
+B
+BT
+/F2 12 Tf
+13.799999999999999 TL
+0 g
+152.73 514.20 Td
+(Description) Tj
+ET
+0.78 0.78 0.78 rg
+239.46 528.00 90.15 -16.80 re
+B
+BT
+/F2 12 Tf
+13.799999999999999 TL
+0 g
+242.46 514.20 Td
+(Rate) Tj
+ET
+0.78 0.78 0.78 rg
+329.61 528.00 90.15 -16.80 re
+B
+BT
+/F2 12 Tf
+13.799999999999999 TL
+0 g
+332.61 514.20 Td
+(Quantity) Tj
+ET
+0.78 0.78 0.78 rg
+419.76 528.00 90.15 -16.80 re
+B
+BT
+/F2 12 Tf
+13.799999999999999 TL
+0 g
+422.76 514.20 Td
+(Price) Tj
+ET
+60.00 511.20 89.73 -30.60 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+63.00 497.40 Td
+(-Front End) Tj
+T* (Consultation) Tj
+ET
+149.73 511.20 89.73 -30.60 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+152.73 497.40 Td
+(Experience) Tj
+T* (Review) Tj
+ET
+239.46 511.20 90.15 -30.60 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+242.46 497.40 Td
+($150.00) Tj
+ET
+329.61 511.20 90.15 -30.60 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+332.61 497.40 Td
+(4) Tj
+ET
+419.76 511.20 90.15 -30.60 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+422.76 497.40 Td
+($600.00) Tj
+ET
+60.00 480.60 89.73 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+63.00 466.80 Td
+(-fezfezfezfze) Tj
+ET
+149.73 480.60 89.73 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+152.73 466.80 Td
+() Tj
+ET
+239.46 480.60 90.15 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+242.46 466.80 Td
+($50.00) Tj
+ET
+329.61 480.60 90.15 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+332.61 466.80 Td
+(5) Tj
+ET
+419.76 480.60 90.15 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+422.76 466.80 Td
+($250.00) Tj
+ET
+60.00 463.80 89.73 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+63.00 450.00 Td
+(-fzefez) Tj
+ET
+149.73 463.80 89.73 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+152.73 450.00 Td
+() Tj
+ET
+239.46 463.80 90.15 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+242.46 450.00 Td
+($0.00) Tj
+ET
+329.61 463.80 90.15 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+332.61 450.00 Td
+(0) Tj
+ET
+419.76 463.80 90.15 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+422.76 450.00 Td
+($0.00) Tj
+ET
+q BT 0 g 60.00 424.60 Td
+269.72 -14.40 Td
+/F2 9.60 Tf (+) Tj
+ET Q
+0.78 0.78 0.78 rg
+60.00 397.80 224.32 -16.80 re
+B
+BT
+/F2 12 Tf
+13.799999999999999 TL
+0 g
+63.00 384.00 Td
+(Total) Tj
+ET
+0.78 0.78 0.78 rg
+284.32 397.80 223.17 -16.80 re
+B
+BT
+/F2 12 Tf
+13.799999999999999 TL
+0 g
+287.32 384.00 Td
+($850.00) Tj
+ET
+60.00 381.00 224.32 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+63.00 367.20 Td
+(Amount Paid) Tj
+ET
+284.32 381.00 223.17 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+287.32 367.20 Td
+($0.00) Tj
+ET
+60.00 364.20 224.32 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+63.00 350.40 Td
+(Balance Due) Tj
+ET
+284.32 364.20 223.17 -16.80 re
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+287.32 350.40 Td
+($850.00) Tj
+ET
+q BT 0 g 60.00 327.40 Td
+229.73 -12.00 Td
+/F2 10.80 Tf (Additional Notes) Tj
+ET Q
+q BT 0 g 60.00 315.40 Td
+0 -16.20 Td
+/F1 10.80 Tf (A finance charge of 1.5% will be made on unpaid balances after 30 days.) Tj
+ET Q
+Q
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<</BaseFont/Helvetica/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+6 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+7 0 obj
+<</BaseFont/Helvetica-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+8 0 obj
+<</BaseFont/Helvetica-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+9 0 obj
+<</BaseFont/Courier/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+10 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+11 0 obj
+<</BaseFont/Courier-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+12 0 obj
+<</BaseFont/Courier-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+13 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+14 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+15 0 obj
+<</BaseFont/Times-Italic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+16 0 obj
+<</BaseFont/Times-BoldItalic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+17 0 obj
+<<
+/Producer (jsPDF 1.0.272-debug 2014-09-29T15:09:diegocr)
+/CreationDate (D:20200122155718+01'00')
+>>
+endobj
+18 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000004477 00000 n 
+0000005676 00000 n 
+0000000009 00000 n 
+0000000117 00000 n 
+0000004534 00000 n 
+0000004624 00000 n 
+0000004719 00000 n 
+0000004817 00000 n 
+0000004919 00000 n 
+0000005007 00000 n 
+0000005101 00000 n 
+0000005198 00000 n 
+0000005299 00000 n 
+0000005392 00000 n 
+0000005484 00000 n 
+0000005578 00000 n 
+0000005900 00000 n 
+0000006019 00000 n 
+trailer
+<<
+/Size 19
+/Root 18 0 R
+/Info 17 0 R
+>>
+startxref
+6123
+%%EOF
